@@ -1,9 +1,9 @@
-# runnning server
+# running server
 ```
 node server.js
 ```
 
-# runnning client
+# running client
 ```
 node client.js
 ```
